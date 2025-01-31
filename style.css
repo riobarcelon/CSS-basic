@@ -62,3 +62,8 @@ article {
 .nav-bar {
     display: flex;
 }
+
+a:hover {
+    color: gold;
+
+}
