@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+}
+
+.banner {
+    background-color: brown;
+    padding: 50px;
+    margin: 0;
+    text-align: center;
+}
+
+.nav-navigation {
+    align-items: baseline;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: stretch;
+    justify-content: center;
+    position: relative;
+    bottom: -130px;
+}
+
+a {
+    text-decoration: none;
+    color: green;
+}
+
+li {
+display: inline-block;
+padding: 0 15px 0 15px;
+font-size: 28px;
+}
+
+.nav-ul {
+    text-align: center;
+    
+}
+
+body {
+    background-color: tan;
+}
+
+section {
+    padding-top: 40px;
+}
+h1 {
+    font-size: 45px;
+    padding-top: 100px;
+}
+h2 {
+    font-size: 35px;
+}
+
+footer {
+    text-align: center;
+}
+
+article {
+    color: brown;
+}
+
+.nav-bar {
+    display: flex;
+}
